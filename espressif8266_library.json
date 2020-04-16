@@ -16,8 +16,4 @@
   "license": "LGPL-3.0",
   "frameworks": "arduino",
   "platforms": ["espressif8266", "espressif8266_stage"],
-  "dependencies":
-  {
-    "name": "ESPAsyncTCP"
-  }
 }
